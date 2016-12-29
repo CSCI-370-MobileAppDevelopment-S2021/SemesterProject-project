@@ -1,2 +1,2 @@
 # SemesterProject
-SemesterProject
+Semester Project
