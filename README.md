@@ -10,8 +10,13 @@ This is not the official assignment, but it’s time to start thinking about…
 ### 21 Feb 2017
 * Document detailing the project. Well written description of the purpose along with navigation and persistence details. Team name, team members, and project name should also be included.
 
-
+### 02 Mar 2017
 * Hand-drawn mockups of the various screenshots along with navigation and menus that will be used.
-* Source code on GitHub. I will try to get private repositories for each project.
-* A final private demo with the whole team present.
+
+### 25 Apr 2017
+* Group presentation, 15 minutes long. Each member must present something. App should be mostly working by this point.
+
+### 04 May 2017
+* Source code on GitHub.
+* 2-3 page write-up (per team) reflective document. Topics must include overall team experience, tools used for communications, what was effective, what was not effective, what features you meant to get to but didn't have a chance, challenges that were not foreseen and how you dealt with them, etc. 
 
