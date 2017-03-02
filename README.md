@@ -4,7 +4,7 @@
 This is not the official assignment, but it’s time to start thinking about…
 
 * Start forming your groups. I’m looking for groups of 2-4. 
-* Come up with an idea for a project. This should be more extensive than our assigned projects. Should incorporate several Activities, saving state, persistence, menus, and notifications. (You don’t need to know these things right now to plan)
+* Come up with an idea for a project. This should be more extensive than our assigned projects. Should incorporate several Activities, saving state, persistence, menus, user preferences, and notifications. (You don’t need to know these things right now to plan)
 
 ## Deliverables:
 ### 21 Feb 2017
