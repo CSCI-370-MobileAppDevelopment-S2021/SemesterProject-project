@@ -7,16 +7,16 @@ This is not the official assignment, but it’s time to start thinking about…
 * Come up with an idea for a project. This should be more extensive than our assigned projects. Should incorporate several Activities, saving state, persistence, menus, user preferences, and notifications. (You don’t need to know these things right now to plan)
 
 ## Deliverables:
-### 08 Feb 2018
+### 06 Mar 2019
 * Document detailing the project. Well written description of the purpose along with navigation and persistence details. Team name, team members, and project name should also be included.
 
-### 22 Feb 2018
+### 25 Mar 2019
 * Hand-drawn mockups of the various screenshots along with navigation and menus that will be used.
 
-### 01 Mar 2018
+### 27 Mar 2019
 * Project created and initial files pushed to Github.
 
-### 28 Apr 2018
+### Night of the final
 * Source code on GitHub.
 * Team presentation and demo during the alloted Final exam time slot.
 * 2-3 page write-up (per team) reflective document. Topics must include overall team experience, tools used for communications, what was effective, what was not effective, what features you meant to get to but didn't have a chance, challenges that were not foreseen and how you dealt with them, etc. 
