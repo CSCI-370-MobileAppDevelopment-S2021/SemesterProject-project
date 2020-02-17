@@ -7,13 +7,13 @@ This is not the official assignment, but it’s time to start thinking about…
 * Come up with an idea for a project. This should be more extensive than our assigned projects. Should incorporate several Activities, saving state, persistence, menus, user preferences, and notifications. (You don’t need to know these things right now to plan)
 
 ## Deliverables:
-### 06 Mar 2019
+### 09 Mar 2020
 * Document detailing the project. Well written description of the purpose along with navigation and persistence details. Team name, team members, and project name should also be included.
 
-### 25 Mar 2019
+### 23 Mar 2020
 * Hand-drawn mockups of the various screenshots along with navigation and menus that will be used.
 
-### 27 Mar 2019
+### 25 Mar 2019
 * Project created and initial files pushed to Github.
 
 ### Night of the final
